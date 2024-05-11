@@ -6,7 +6,7 @@ Este projeto Roda da Vida com Inteligência Artificial GEMINI oferece uma soluç
 
 Esta é a **Roda da Vida**:
 
-<img src="https://lirp.cdn-website.com/fd353b1c/dms3rep/multi/opt/Roda+Da+Vida-1920w.jpeg" height="250">    
+<img src="https://lirp.cdn-website.com/fd353b1c/dms3rep/multi/opt/Roda+Da+Vida-1920w.jpeg" height="450">    
 
 # Como ele funciona?
 
