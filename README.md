@@ -4,6 +4,10 @@ A **Roda da Vida** é uma ferramenta poderosa para o autoconhecimento em áreas 
 
 Este projeto Roda da Vida com Inteligência Artificial GEMINI oferece uma solução inovadora para democratizar o acesso a essa ferramenta, utilizando a tecnologia para automatizar o diagnóstico e fornecer insights personalizados.
 
+Esta é a **Roda da Vida**:
+
+<img src="https://lirp.cdn-website.com/fd353b1c/dms3rep/multi/opt/Roda+Da+Vida-1920w.jpe" height="250">    
+
 # Como ele funciona?
 
 Você vai responder a 8 perguntas em relação a Roda da Vida e a Inteligência Artifical irá te ajudar a melhorar a sua **auto-estima**.
