@@ -22,3 +22,8 @@ Você vai responder a 8 perguntas em relação a Roda da Vida e a Inteligência 
 # Desenvolvimento
 
  - Utilizei o GOOGLE COLAB e a versão GEMINI 1.0 PRO
+
+Veja na pratica como foi o processo de criação:
+
+ - https://www.youtube.com/watch?v=qmhHDpWYxfk <-- parte 1
+ - https://www.youtube.com/watch?v=Zooh1E0f000 <-- parte 2
